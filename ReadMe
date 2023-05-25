@@ -38,7 +38,7 @@ The project aims to provide insights into the predictive power of the model, the
 
 To use this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/grocery-store-analysis.git`
+1. Clone the repository: `git clone https://github.com/Gurashish-singh/grocery-store-analysis.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Explore the Jupyter notebooks in the `notebooks/` directory to understand the preprocessing, feature engineering, modeling, and analysis steps.
 4. Execute the notebooks in the specified order to reproduce the results and findings.
